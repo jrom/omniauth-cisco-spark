@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/jrom/omniauth-cisco-spark.svg?branch=master)](https://travis-ci.org/jrom/omniauth-cisco-spark)
+
 # OmniAuth Cisco Spark Strategy
 
 
