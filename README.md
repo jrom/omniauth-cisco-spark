@@ -15,7 +15,11 @@ And then execute:
 
 ## Usage
 
-TODO: Write usage instructions here
+To develop an integration with Cisco Spark we first need an OAuth2 application
+registered. It can be done
+[here](https://developer.ciscospark.com/add-app.html) but I recommend start by
+reading the [Getting
+Started](https://developer.ciscospark.com/getting-started.html).
 
 ## Development
 
